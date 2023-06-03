@@ -312,7 +312,7 @@ footer hr {
     transition: all .4s ease;
 }
 
-.footer-nav ul li a:hover svg path { fill: var(--dark-violet); }
+.footer-nav ul li:hover svg path { fill: var(--dark-violet); }
 
 .img-sm { 
     position: relative;
